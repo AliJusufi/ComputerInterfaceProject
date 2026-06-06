@@ -1,0 +1,12 @@
+com\recipe\planner\springboot_project\config\ApiKeyInterceptor.class
+com\recipe\planner\springboot_project\config\DataInitializer.class
+com\recipe\planner\springboot_project\controller\PantryItemController.class
+com\recipe\planner\springboot_project\repository\RecipeRepository.class
+com\recipe\planner\springboot_project\model\PantryItem.class
+com\recipe\planner\springboot_project\controller\RecipeController.class
+com\recipe\planner\springboot_project\SpringbootProjectApplication.class
+com\recipe\planner\springboot_project\config\ApiKeyProperties.class
+com\recipe\planner\springboot_project\repository\PantryItemRepository.class
+com\recipe\planner\springboot_project\model\Recipe.class
+com\recipe\planner\springboot_project\service\PantryItemService.class
+com\recipe\planner\springboot_project\service\RecipeService.class
