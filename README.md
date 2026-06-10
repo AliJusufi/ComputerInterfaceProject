@@ -94,10 +94,13 @@ ENDPOINTS
 
 
 
- Access the H2 console
-Run your app, then open: http : // localhost:8080/h2-console
-Use these connection settings:
-• JDBCURL: jdbc:h2:mem: testdb
-• Username: sa
-• Password: (leave empty)
 
+
+H2
+
+1. Go to http://localhost:8080/h2-console
+2. In the JDBC URL field, clear it and enter:
+jdbc:h2:file:C:/Users/aliju/OneDrive/Desktop/spring-project-main/spring-project-main/springboot-project/data/recipedb
+3. Username: sa
+4. Password: (leave blank)
+5. Click Connect
