@@ -92,3 +92,12 @@ ENDPOINTS
 
  URL: http://localhost:8080/pantry/1
 
+
+
+ Access the H2 console
+Run your app, then open: http : // localhost:8080/h2-console
+Use these connection settings:
+• JDBCURL: jdbc:h2:mem: testdb
+• Username: sa
+• Password: (leave empty)
+
